@@ -2,18 +2,18 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/Dm1triy/hh_analysis/blob/master/readme.md#Описание-проекта)  
-[2. О решени](https://github.com/Dm1triy/SF_hw_module3/blob/master/readme.md#О-решении)  
-[3. Описание данных](https://github.com/Dm1triy/SF_hw_module3/blob/master/readme.md#Описание-данных)  
-[4. Этапы работы](https://github.com/Dm1triy/SF_hw_module3/blob/master/readme.md#Этапы-работы)  
-[5. Результаты](https://github.com/Dm1triy/SF_hw_module3/blob/master/readme.md#Результаты)  
-[6. Выводы](https://github.com/Dm1triy/SF_hw_module3/blob/master/readme.md#Выводы)  
+[1. Описание проекта](https://github.com/Dm1triy/hh_analysis/blob/main/README.md#Описание-проекта)  
+[2. О решени](https://github.com/Dm1triy/hh_analysis/blob/main/README.md#О-решении)  
+[3. Описание данных](https://github.com/Dm1triy/hh_analysis/blob/main/README.md#Описание-данных)  
+[4. Этапы работы](https://github.com/Dm1triy/hh_analysis/blob/main/README.md#Этапы-работы)  
+[5. Результаты](https://github.com/Dm1triy/hh_analysis/blob/main/README.md#Результаты)  
+[6. Выводы](https://github.com/Dm1triy/hh_analysis/blob/main/README.md#Выводы)  
 
 ### Описание проекта
 
 Анализ резюме, выгруженных с сайта для поиска работы hh.ru
 
-:arrow_up:[к оглавлению](https://github.com/Dm1triy/SF_hw_module3/blob/main/readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Dm1triy/hh_analysis/blob/main/README.md#Оглавление)
 
 ### О решении
 
@@ -32,18 +32,20 @@
 
 ### Описание данных
 
+[Ссылка на данные](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)  
+
 В данных содержится почти 45 тысяч записей. В каждой записи содержится информация о желаемой заработной плате, а также:
 
 - пол, возраст;
 - желаемая должность;
 - город проживания, информация о готовности к командировкам и перезду;
 - опыт работы;
-- последнее место работы, должность;
+- последнее о работы, должность;
 - образование;
 - дата последнего изменения резюме;
 - наличие авто.
 
-:arrow_up:[к оглавлению](https://github.com/Dm1triy/SF_hw_module3/blob/main/readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Dm1triy/hh_analysis/blob/main/README.md#Оглавление)
 
 ### Этапы работы
 
@@ -68,7 +70,7 @@
 
 - очистить дубликаты в данных, обработать пустые значения, избавиться от аномалий в данных
 
-:arrow_up:[к оглавлению](https://github.com/Dm1triy/SF_hw_module3/blob/main/readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Dm1triy/hh_analysis/blob/main/README.md#Оглавление)
 
 ### Результаты
 
@@ -78,4 +80,4 @@
 
 ### Выводы
 
-Выводы по исследованию данных представлены после каждого графика в .ipynb файле
+Выводы по исследованию данных представлены после каждого графика в .ipynb файле.

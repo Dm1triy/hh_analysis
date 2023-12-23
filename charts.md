@@ -1,0 +1,1 @@
+{% include bar_salary_education_level.html %}
